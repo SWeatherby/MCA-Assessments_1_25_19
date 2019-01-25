@@ -1,0 +1,6 @@
+C:\Users\CCA014\source\repos\PA3\PA3\bin\Debug\PA3.exe.config
+C:\Users\CCA014\source\repos\PA3\PA3\bin\Debug\PA3.exe
+C:\Users\CCA014\source\repos\PA3\PA3\bin\Debug\PA3.pdb
+C:\Users\CCA014\source\repos\PA3\PA3\obj\Debug\PA3.csproj.CoreCompileInputs.cache
+C:\Users\CCA014\source\repos\PA3\PA3\obj\Debug\PA3.exe
+C:\Users\CCA014\source\repos\PA3\PA3\obj\Debug\PA3.pdb

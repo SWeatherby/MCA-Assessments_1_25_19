@@ -1,0 +1,7 @@
+C:\Users\CCA014\source\repos\PA0\PA0\bin\Debug\PA0.exe.config
+C:\Users\CCA014\source\repos\PA0\PA0\bin\Debug\PA0.exe
+C:\Users\CCA014\source\repos\PA0\PA0\bin\Debug\PA0.pdb
+C:\Users\CCA014\source\repos\PA0\PA0\obj\Debug\PA0.csprojAssemblyReference.cache
+C:\Users\CCA014\source\repos\PA0\PA0\obj\Debug\PA0.csproj.CoreCompileInputs.cache
+C:\Users\CCA014\source\repos\PA0\PA0\obj\Debug\PA0.exe
+C:\Users\CCA014\source\repos\PA0\PA0\obj\Debug\PA0.pdb
